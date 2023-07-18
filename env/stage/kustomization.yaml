@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/elikop/demo-app
+  newTag: dd45d919669b12fffe59378cb537f3b8ffd3e72a
