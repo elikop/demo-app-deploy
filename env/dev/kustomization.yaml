@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/elikop/demo-app
-  newTag: ea8eebd784de85835ef54a7ab0baecdb35ca2d50
+  newTag: 9bd6f029be2c7d372c4e8ea2ead94f875d851654
